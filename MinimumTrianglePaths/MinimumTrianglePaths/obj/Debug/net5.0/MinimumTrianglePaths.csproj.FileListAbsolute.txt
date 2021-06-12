@@ -1,0 +1,17 @@
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.exe
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.deps.json
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.runtimeconfig.json
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.runtimeconfig.dev.json
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.dll
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\ref\MinimumTrianglePaths.dll
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\MinimumTrianglePaths.pdb
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.csprojAssemblyReference.cache
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.AssemblyInfoInputs.cache
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.AssemblyInfo.cs
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.csproj.CoreCompileInputs.cache
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.dll
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\ref\MinimumTrianglePaths.dll
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.pdb
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\obj\Debug\net5.0\MinimumTrianglePaths.genruntimeconfig.cache
+C:\Users\fatihyilmaz\source\repos\MinimumTrianglePaths\MinimumTrianglePaths\bin\Debug\net5.0\file.txt
